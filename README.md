@@ -24,12 +24,15 @@ This application allows users to create nested JSON schemas interactively by add
 - Tailwind CSS
 - ShadCN UI
 - React-Hook-Form (used for form structure and handling)
-
-🌐 Live Demo
-👉 https://json-schema-builder-jhvcpzqsd-satvik-shuklas-projects.vercel.app/
 - Class Variance Authority (for button variants)
 - Radix UI primitives
 
 ---
+
+🌐 Live Demo
+👉 https://json-schema-builder-jhvcpzqsd-satvik-shuklas-projects.vercel.app/
+
+
+
 
 
